@@ -1,6 +1,6 @@
 # cimme
 
-** It is not ready to be used right now. Consider only using it for testing it. **
+** It is not ready to be used right now. Consider using it only for testing. **
 
 Declarative, YAML formatted, immutable, container based CI/CD engine with Python and Docker
 
