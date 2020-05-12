@@ -1,4 +1,7 @@
 # cimme
+
+** It is not ready to be used right now. Consider only using it for testing it. **
+
 Declarative, YAML formatted, immutable, container based CI/CD engine with Python and Docker
 
 Cimme has started as an example CI/CD engine to create a demo with Docker, Python, and docker-py module.
