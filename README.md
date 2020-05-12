@@ -9,7 +9,7 @@ Currently it is integrated with Gitea.
 Running Cimme inside a Docker container, and providing Docker socket is enough to get started:
 
 ```bash
-docker run -d -p 8000:8000 --name cimme -v /var/run/docker.sock:/var/run/docker.sock guray/cimmee:0.1
+docker run -d -p 8000:8000 --name cimme -v /var/run/docker.sock:/var/run/docker.sock guray/cimme:0.1
 ```
 
 Just add Gitea to its IP:8000 as a webhook and you are ready.
