@@ -4,7 +4,7 @@ Declarative, YAML formatted, immutable, container based CI/CD engine with Python
 Cimme has started as an example CI/CD engine to create a demo with Docker, Python, and docker-py module.
 Currently it is integrated with Gitea.
 
-## Install
+## Install
 
 Running Cimme inside a Docker container, and providing Docker socket is enough to get started:
 
